@@ -1,6 +1,4 @@
 # Express API template
-# initialize the project folder as a git repository
-git init
 [![Build Status](https://travis-ci.com/sangeethababu9223/Book-Inventory.svg?branch=master)](https://travis-ci.com/sangeethababu9223/Book-Inventory)
 
 [![Coverage Status](https://coveralls.io/repos/github/sangeethababu9223/Book-Inventory/badge.svg?branch=master)](https://coveralls.io/github/sangeethababu9223/Book-Inventory?branch=master)
